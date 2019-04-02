@@ -478,7 +478,7 @@ img {
 .large-hero__title{
         font-weight: 300;
         color:#2f5572;
-        font-size: 4.8rem;
+        font-size: 6.8rem;
         margin: 0%;
     }
 
@@ -502,7 +502,7 @@ img {
 
 .btn {
     background-color: #2f5572;
-    color: #FFF;
+    color : #FFF;
     text-decoration:none;
     padding: 1.2rem;
     display: inline-block;
